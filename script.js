@@ -23,7 +23,7 @@ class PortfolioManager {
                 ],
                 technologies: ['MATLAB', 'Signal Processing', 'ECG Analysis', 'Biomedical Algorithms', 'FFT Analysis', 'Peak Detection'],
                  images: [
-                    { src: 'images/output.png', caption: 'Result' }
+                    { src: 'output.png', caption: 'Result' }
                 ],
                 code: `%% Advanced Heart Rate Monitor - BPM, Spectrum, and ECG Peak Detection
 
@@ -175,8 +175,8 @@ disp('ECG analysis complete. Results saved to workspace.');`
                 ],
                 technologies: ['Medical Device Design', 'Pressure Sensors', 'Therapeutic Systems', 'Biomechanics', 'Patient Monitoring', 'Wearable Electronics', 'Clinical Validation'],
                 images: [
-                    { src: 'images/flowcircuit.png.jpg', caption: 'Flow Diagram' },
-                    { src: 'images/cvi.jpg', caption: ' Output' }
+                    { src: 'flowcircuit.png.jpg', caption: 'Flow Diagram' },
+                    { src: 'cvi.jpg', caption: ' Output' }
                 ]
             },
 
@@ -189,8 +189,8 @@ disp('ECG analysis complete. Results saved to workspace.');`
                 ],
                 technologies: ['Arduino', 'Healthcare IoT', 'Automation Systems', 'Precision Control', 'Safety Systems', 'Sensor Integration', 'Wireless Communication'],
                 images: [
-                    { src: 'images/arduino.jpg', caption: 'Circuit Design' },
-                    { src: 'images/drug1.png', caption: ' Output' }
+                    { src: 'arduino.jpg', caption: 'Circuit Design' },
+                    { src: 'drug1.png', caption: ' Output' }
                 ]
             }
         };
